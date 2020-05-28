@@ -7,7 +7,10 @@
   float: left;
   width: max-content;
   border-image: 4px solid black;
-  color: blue
+}
+
+.profile p {
+  color: orangered;
 }
 
 body {
